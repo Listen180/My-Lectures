@@ -1,3 +1,3 @@
 # My-Lectures
 
-![lecture-cnn](My-Lectures/imgs/lecture-cnn.png)
+![lecture-cnn](https://github.com/Listen180/My-Lectures/imgs/lecture-cnn.png)
