@@ -1,3 +1,3 @@
 # My-Lectures
 
-![cover](http://url/to/img.png)
+![lecture-cnn](My-Lectures/imgs/lecture-cnn.png)
